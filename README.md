@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @posehub
 - 👀 I’m interested in all things Documentation.
-- 🌱 I’m currently learning about ARGO.
 - 💞️ I’m looking to collaborate on Documentation Needs. 
 - 📫 I can be reached at posey.davis@argodata.com or 972-866-3426.
 <!---
